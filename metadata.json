@@ -1,0 +1,6 @@
+{
+  "name": "ATS Forge AI",
+  "description": "Unified Dual-Engine ATS Resume Scanner, Diagnostic Scorer, and Super-ATS Single-Column Resume Rebuilder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
