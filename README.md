@@ -1,11 +1,10 @@
-<div align="center">
+# ⚡ ATS Forge AI
+> **Next-Generation Dual-Engine ATS Scanner & Super-ATS Resume Transformer**
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+An intelligent web application engineered to parse, score, and diagnose resumes against modern Applicant Tracking System (ATS) parsing rules (Workday, Greenhouse, Taleo) and automatically transform them into single-column, 95%+ ATS-friendly documents.
 
-  <h1>Built with AI Studio</h2>
-
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+### ✨ Key Features
+- **One-Click CV Upload:** Zero manual text pasting—upload PDF, DOCX, or TXT directly.
+- **Dynamic ATS Diagnostic (Tool 1):** Scored out of 100% across Parseability, Keywords, Impact (XYZ formula), and Structure.
+- **Super-ATS Rebuilder (Tool 2):** Generates clean, parser-proof, 1-page US English resumes.
+- **Export Formats:** Direct download for ATS-compliant `.pdf` and `.docx` documents.
